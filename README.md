@@ -1,8 +1,6 @@
-# 18F Guides
+# PRA Guides
+Working repo for PRA Guides
 
-18F’s guides equip 18F teams, our partners, other practitioners, lawmakers, and the public with tools and practices to improve public services. They affirm experiences, build confidence, and empower exceptional digital experiences.
-
-Since [18F guides launched in 2015](https://18f.gsa.gov/2015/05/28/18F-guides/), they are: 
 - **Referenced and replicated broadly.** A review of traffic in 2022 found the guides were accessed more than 660,000 times across 217 countries, and guides have been printed, bound, and distributed within the United States Senate to help spread the word and make more data-driven decisions. This review found 454 GitHub forks across all the 18F Guides + Methods (our guides were previously maintained as separate products, and were consolidated in 2023).
 - **Widely cited and used,** including in onboarding materials for organizations both public and private, as resources of best practices by programs like [Digital.gov](https://digital.gov/resources/), and with 18F’s agency partners. Agency partners continually highlight that the guides inform new ways of working even outside of teams building software, like adopting retrospectives within new acquisiton process reviews. In one project, an agency partner highlighted the guides empowered staff to introduce and demonstrate the value of usability testing, which resulted in a 90% reduction in engineering rework on their product.
 - **Bettering delivery, within 18F and beyond.** The 18F Guides help us do our work well and consistently. They are a resource to 18F staff for orienting and onboarding, reference, partner support, knowledge management, training, continuity, and more. These best practices are cultivated over time through our open source process and enable us to share and apply knowledge across projects, allowing incremental improvement as our experience grows. As our projects benefit from this knowledge sharing, so do our partners and the people they serve.
