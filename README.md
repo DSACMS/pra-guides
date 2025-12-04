@@ -1,71 +1,125 @@
-# PRA Guides
-Working repo for PRA Guides
+# pra-guides
 
+## About the Project
+PRA Guides is a static documentation site built with Eleventy, Liquid templates, and Markdown to provide clear, accessible guidance on Paperwork Reduction Act (PRA) requirements. The repository organizes key concepts, workflows, and reference materials to help teams understand, plan, and document PRA related activities. It serves as a centralized, version-controlled resource that supports updates, contributions, and continuous improvements through a lightweight, code-based workflow. The site is designed for teams and collaborators who need accurate, maintainable PRA documentation.
 
-## I’d like to make a contribution, how do I update this content?
+<!---
+### Project Vision
+**{project vision}** -->
 
-18F Guides aim to serve as the repository for best practices across 18F project teams. All team members are encouraged to suggest improvements that benefit the rest of the organization, particularly future new hires. 
+<!--
+### Project Mission
+**{project mission}** -->
 
-Though these guides carry the 18F brand, the intention is to spread the use and cultivation of the material throughout the broader digital services community. As new digital service teams launch across government and agencies and existing teams seek to improve their current practices, the guides provide a government-centered vehicle for knowledge sharing and skills acquisition. The guides complement the [Digital Services Playbook](https://playbook.cio.gov/) by providing teams detailed, practical advice on how to implement the plays. Though these other teams are welcome to fork their own copies and maintain them, we hope the innovations these other teams develop will find their way into the guides, to the benefit of all government teams using them.
+<!--
+### Agency Mission
+TODO: Good to include since this is an agency-led project -->
 
-By developing this material in the open, we hope to encourage expert review and contributions from members of the tech community outside of government, furthering our goal of improving how government works through increased civic engagement of tech specialists. We hope this material and the means by which it is developed will attract new recruits to government technology positions, but for those who are not inclined to do so, helping cultivate the guides is a potentially high-visibility, high-impact contribution to government work that doesn’t require a major life change.
+<!--
+### Team Mission
+TODO: Good to include since this is an agency-led project -->
 
-The [CODEOWNERS file](.github/CODEOWNERS) keeps track of who is in review & approver roles for content in the guides — if you’re not receiving a timely (within two weeks) review or notice the list is outdated, reach out to 18F’s Chief of Delivery for assistance. These reviewers will be automatically tagged appropriately when opening pull requests. Read [CONTRIBUTING](CONTRIBUTING.md) for more information.
+## Core Team
 
-Issues opened in this repo are automatically added to the [18F TLC project board](https://github.com/orgs/18F/projects/41/views/1) for prioritization for 18F staff in between projects to work on.
+A list of core team members responsible for the code and documentation in this repository can be found in [COMMUNITY.md](COMMUNITY.md).
 
-## Development
-The re-platformed sites use 11ty. If you could run Jekyll, you should be able to run 11ty! There are two approaches to working with the guides: [Local installation](#local-installation) and [Codespaces](#codespaces).
+## Repository Structure
 
+<!-- TODO: Including the repository structure helps viewers quickly understand the project layout. Using the "tree -d" command can be a helpful way to generate this information, but, be sure to update it as the project evolves and changes over time. -->
+<!--TREE START--><!--TREE END-->
 
-Ensure that you have the latest version of [Node](https://nodejs.org/en/download) installed. 
+**{list directories and descriptions}**
 
-To run the site locally:
+<!-- TODO: Add a 'table of contents" for your documentation. Tier 0/1 projects with simple README.md files without many sections may or may not need this, but it is still extremely helpful to provide "bookmark" or "anchor" links to specific sections of your file to be referenced in tickets, docs, or other communication channels. -->
 
-1. Clone this repo
-2. From the repo directory, run:
-   ```sh
-   npm install
-   npm run dev
-   ```
-3. Open http://localhost:8080
+**{list of .md at top directory and descriptions}**
 
-For more information on testing and repo configurations, read our in-depth [development docs](/docs/development.md).
+# Development and Software Delivery Lifecycle
 
-### Codespaces
-[Codespaces](https://github.com/features/codespaces) allows you to set up a development environment easily and without dependencies on a local machine.
+The following guide is for members of the project team who have access to the repository as well as code contributors. The main difference between internal and external contributions is that external contributors will need to fork the project and will not be able to merge their own pull requests. For more information on contributing, see: [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-#### Start a GitHub Codespace
-1. From this repo, Click "Code" and then the "Codespaces" tab.
-2. Click the "+" icon, agree to the terms.
-3. You should then see the repo interface. At the bottom, check the branch you are currently viewing or create a new one.
+## Local Development
 
-#### Start the application and preview the site
-1. Give this a few minutes to warm up. At first, it will have a message "Welcome to Codespaces."  If you wait a bit, you'll see it recognize the environment and start to install libraries for you.
-2. Once it finishes installing the libraries, click on the "terminal" and type ```npm start```. 
-3. It will think for 10 - 20 seconds and then you should see a message pop up on the right side that the site is available.  Click "open in the browser.
+<!--- TODO - with example below:
+This project is monorepo with several apps. Please see the [api](./api/README.md) and [frontend](./frontend/README.md) READMEs for information on spinning up those projects locally. Also see the project [documentation](./documentation) for more info.
+-->
 
-#### Make changes, preview them
-1. Select a file from the file explorer that you want to edit.  Make some changes!  You should be able to refresh the preview tab to see them immediately. If you will be making changes to styles, you will need to restart the server via ```npm run dev``` for those to be reflected.
+## Coding Style and Linters
 
-#### Commit your changes
-1. When you’re happy with how things look, switch on the left-hand menu to the "sourcecode" view. It will show you any changes you have made. Click the file name (on the left) to view things you've removed/added to that file.
-2. This is a good time to create a new branch if you haven't already started on one!  Click the three dots at the top of that menu, then "Branch" then "Create Branch".  Give it a name like "design-update" or "cool-new-footer" and hit enter.
-3. You will need to stage each file that you want to be committed. Once that's done, it's time to commit and push!  You can click "commit" and then "publish" or you can use the arrow to select "commit & push".
-4. On the lower right, it will ask you if you want to create a pull request.  If it's too soon, don't click this.  Otherwise, feel free!
+<!-- TODO - Add the repo's linting and code style guidelines -->
 
-## Analytics
+Each application has its own linting and testing guidelines. Lint and code tests are run on each commit, so linters and tests should be run locally before committing.
 
-For information on the metrics used to evaluate the Guides' impact and reach, read our [analytics docs](/docs/analytics.md).
+## Branching Model
+
+<!--- TODO - with example below:
+This project follows [trunk-based development](https://trunkbaseddevelopment.com/), which means:
+
+* Make small changes in [short-lived feature branches](https://trunkbaseddevelopment.com/short-lived-feature-branches/) and merge to `main` frequently.
+* Be open to submitting multiple small pull requests for a single ticket (i.e. reference the same ticket across multiple pull requests).
+* Treat each change you merge to `main` as immediately deployable to production. Do not merge changes that depend on subsequent changes you plan to make, even if you plan to make those changes shortly.
+* Ticket any unfinished or partially finished work.
+* Tests should be written for changes introduced, and adhere to the text percentage threshold determined by the project.
+
+This project uses **continuous deployment** using [Github Actions](https://github.com/features/actions) which is configured in the [./github/workflows](.github/workflows) directory.
+
+Pull-requests are merged to `main` and the changes are immediately deployed to the development environment. Releases are created to push changes to production.
+-->
+
+## Contributing
+
+Thank you for considering contributing to an Open Source project of the US Government! For more information about our contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Community
+
+The pra-guides team is taking a community-first and open source approach to the product development of this tool. We believe government software should be made in the open and be built and licensed such that anyone can download the code, run it themselves without paying money to third parties or using proprietary software, and use it as they will.
+
+We know that we can learn from a wide variety of communities, including those who will use or will be impacted by the tool, who are experts in technology, or who have experience with similar technologies deployed in other spaces. We are dedicated to creating forums for continuous conversation and feedback to help shape the design and development of the tool.
+
+We also recognize capacity building as a key part of involving a diverse open source community. We are doing our best to use accessible language, provide technical and process documents, and offer support to community members with a wide variety of backgrounds and skillsets.
+
+### Community Guidelines
+
+Principles and guidelines for participating in our open source community are can be found in [COMMUNITY.md](COMMUNITY.md). Please read them before joining or starting a conversation in this repo or one of the channels listed below. All community members and participants are expected to adhere to the community guidelines and code of conduct when participating in community spaces including: code repositories, communication channels and venues, and events.
+
+<!--
+## Governance
+Information about how the pra-guides community is governed may be found in [GOVERNANCE.md](GOVERNANCE.md).
+-->
+
+## Feedback
+
+If you have ideas for how we can improve or add to our capacity building efforts and methods for welcoming people into our community, please let us know at **{contact email}**. If you would like to comment on the tool itself, please let us know by filing an **issue on our GitHub repository.**
+
+<!--
+## Glossary
+Information about terminology and acronyms used in this documentation may be found in [GLOSSARY.md](GLOSSARY.md).
+-->
+
+## Policies
+
+### Open Source Policy
+
+We adhere to the [CMS Open Source
+Policy](https://github.com/CMSGov/cms-open-source-policy). If you have any
+questions, just [shoot us an email](mailto:opensource@cms.hhs.gov).
+
+### Security and Responsible Disclosure Policy
+
+_Submit a vulnerability:_ Vulnerability reports can be submitted through [Bugcrowd](https://bugcrowd.com/cms-vdp). Reports may be submitted anonymously. If you share contact information, we will acknowledge receipt of your report within 3 business days.
+
+For more information about our Security, Vulnerability, and Responsible Disclosure Policies, see [SECURITY.md](SECURITY.md).
+
+### Software Bill of Materials (SBOM)
+
+A Software Bill of Materials (SBOM) is a formal record containing the details and supply chain relationships of various components used in building software.
+
+In the spirit of [Executive Order 14028 - Improving the Nation’s Cyber Security](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/information-technology-category/it-security/executive-order-14028), a SBOM for this repository is provided here: https://github.com/DSACMS/pra-guides/network/dependencies.
+
+For more information and resources about SBOMs, visit: https://www.cisa.gov/sbom.
 
 ## Public domain
 
-This project is in the worldwide [public domain](LICENSE.md). As stated in
-[CONTRIBUTING](https://handbook.tts.gsa.gov/contributing/):
+This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/) as indicated in [LICENSE](LICENSE).
 
-> This project is in the public domain within the United States, and copyright
-> and related rights in the work worldwide are waived through the
-> [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication.
-> By submitting a pull request, you are agreeing to comply with this waiver of
+All contributions to this project will be released under the CC0 dedication. By submitting a pull request or issue, you are agreeing to comply with this waiver of copyright interest.
