@@ -1,7 +1,7 @@
 {
   "name": "pra-guides",
   "version": "1.0.0",
-  "description": "PRA Guides is a static Eleventy site providing clear, structured guidance and resources for Paperwork Reduction Act compliance.",
+  "description": "PRA guides working repository",
   "longDescription": "PRA Guides is a static documentation site built with Eleventy, Liquid templates, and Markdown to provide clear, accessible guidance on Paperwork Reduction Act (PRA) requirements. The repository organizes key concepts, workflows, and reference materials to help teams understand, plan, and document PRA related activities. It serves as a centralized, version-controlled resource that supports updates, contributions, and continuous improvements through a lightweight, code-based workflow. The site is designed for teams and collaborators who need accurate, maintainable PRA documentation.",
   "status": "Development",
   "permissions": {
@@ -19,10 +19,15 @@
   "repositoryURL": "https://github.com/DSACMS/pra-guides",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2110,
+  "laborHours": 9790,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -46,10 +51,13 @@
     "0"
   ],
   "SBOM": "https://github.com/DSACMS/pra-guides/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-08-11T16:48:53Z",
-    "lastModified": "2025-09-11T14:14:53Z",
-    "metadataLastUpdated": "2025-11-21T16:49:57.516Z"
+    "lastModified": "2025-12-04T19:29:39Z",
+    "metadataLastUpdated": "2025-12-11T19:01:21.614Z"
   },
   "tags": [
     "PRA",
