@@ -1,245 +1,79 @@
 # The primary navigation for each guide
-accessibility:
-  - name: Home
-    url: /accessibility/
-  - name: Other .Gov Accessibility Sites
-    url: /accessibility/gov-resources/
-
-agile:
-  - name: Home
-    url: /agile/
-
-brand:
-  - name: Introduction
-    url: /brand/
-  - name: Logo
-    url: /brand/logo/
-  - name: Color palette
-    url: /brand/color-palette/
-  - name: Typography
-    url: /brand/typography/
-  - name: Icons
-    url: /brand/icons/
-  - name: Templates
-    url: /brand/templates/
-  - name: Images
-    url: /brand/images/
-  - name: Principles
-    url: /brand/principles/
-
-content-guide:
-  - name: About this guide
-    url: /content-guide/
-  - name: Our approach
-    url: /content-guide/our-approach/
-  - name: Our style
-    url: /content-guide/our-style/
-
-derisking:
-  - name: Home
-    url: /derisking/
-  - name: State Software Budgeting
-    url: /derisking/state-field-guide/
-  - name: Federal Field Guide
-    url: /derisking/federal-field-guide/
-  - name: QASP
-    url: /derisking/qasp/
-
-derisking-government-tech:
-  - name: Read the guide
+cms-cx-pra-playbook:
+  - name: Welcome
+    url: /cms-cx-pra-playbook/
+  - name: Understanding PRA
     children:
-      - name: Introduction
-        url: /derisking-government-tech/
-      - name: Choosing a software solution
-        url: /derisking-government-tech/software-solutions/
-      - name: Key principles
-        url: /derisking-government-tech/principles/
-      - name: Buying custom software
-        url: /derisking-government-tech/buying-development-services/
-      - name: Vendor management
-        url: /derisking-government-tech/vendor-management/
-      - name: Conclusion
-        url: /derisking-government-tech/conclusion/
-  - name: About
-    url: /derisking-government-tech/about/
+    - name: Understanding the PRA
+      url: /cms-cx-pra-playbook/understanding-the-pra/
+    - name: How PRA Works
+      url: /cms-cx-pra-playbook/how-pra-works/
+    - name: What is an Information Collection?
+      url: /cms-cx-pra-playbook/what-is-an-information-collection/
+    - name: What are PRA Clearances?
+      url: /cms-cx-pra-playbook/what-are-pra-clearances/
+    - name: What is an OMB Control Number?
+      url: /cms-cx-pra-playbook/what-is-an-omb-control-number/
+    - name: When do I need a PRA Clearance for CX?
+      url: /cms-cx-pra-playbook/when-do-i-need-a-pra-clearance-for-cx/
+  - name: What to Consider
+    children:
+    - name: Overview
+      url: /cms-cx-pra-playbook/what-to-consider/
+    - name: Who are you getting feedback from?
+      url: /cms-cx-pra-playbook/who-are-you-getting-feedback-from/
+  - name: Navigate the PRA
+    children:
+    - name: Select a PRA-Compliant Process
+      url: /cms-cx-pra-playbook/select-a-pra-compliant-process/
+    - name: PRA Compliance, Without Clearance
+      url: /cms-cx-pra-playbook/pra-compliance-without-clearance/
+    - name: Connect with People
+      url: /cms-cx-pra-playbook/connect-with-people/
+  - name: Process Guides
+    children:
+    - name: Generic Fast Track Process
+      url: /cms-cx-pra-playbook/generic-fast-track-process/
+    - name: Normal Clearance Process
+      url: /cms-cx-pra-playbook/normal-clearance-process/
+  - name: Practical Guidance
+    children:
+    - name: Get Quick Feedback from Customers
+      url: /cms-cx-pra-playbook/get-quick-feedback-from-customers/
+    - name: Accounting for Project Direction Changes
+      url: /cms-cx-pra-playbook/accounting-for-project-direction-changes/
   - name: Resources
-    url: /derisking-government-tech/resources/
-  - name: Download
-    url: /assets/derisking-government-tech/dist/18f-derisking-guide.pdf
-    download: true
-
-eng-hiring:
-  - name: Overview
-    url: /eng-hiring/
-  - name: 1. Resume review
-    url: /eng-hiring/resume-review/
-  - name: 2. Phone screen
-    url: /eng-hiring/phone-screens/
-  - name: 3. Pre-work
-    url: /eng-hiring/pre-work/
-  - name: 4. Interviews
     children:
-      - name: Overview
-        url: /eng-hiring/interviews/
-      - name: Core values interview
-        url: /eng-hiring/interviews/core-values/
-      - name: Technical interview
-        url: /eng-hiring/interviews/technical/
-      - name: Code review interview
-        url: /eng-hiring/interviews/code-review/
-      - name: Wrap-up interview
-        url: /eng-hiring/interviews/wrap-up/
-  - name: 5. Debrief
-    url: /eng-hiring/debrief/
-  - name: 6. Final selection
-    url: /eng-hiring/selection/
+    - name: People
+      url: /cms-cx-pra-playbook/people/
+    - name: References
+      url: /cms-cx-pra-playbook/references/
 
-engineering:
-  - name: About this guide
-    url: /engineering/
-  - name: Our approach
-    url: /engineering/our-approach/
-  - name: Tools
-    url: /engineering/tools/
-  - name: Language & Runtimes
-    url: /engineering/languages-runtimes/
-  - name: Security
-    url: /engineering/security/
+cx-center-of-excellence:
+  - name: Welcome
+    url: /cx-center-of-excellence/
+  - name: Planning Your Research
+    children:
+    - name: Before Getting Started
+      url: /cx-center-of-excellence/before-getting-started/
+    - name: Research Planning Assessment
+      url: /cx-center-of-excellence/research-planning-assessment/
+    - name: Planning Your Research
+      url: /cx-center-of-excellence/planning-your-research/
+    - name: Compliance
+      url: /cx-center-of-excellence/compliance/
+  - name: PRA Guidance
+    children:
+    - name: CX and the Paperwork Reduction Act
+      url: /cx-center-of-excellence/cx-and-paperwork-reduction-act/
 
-product:
-  - name: About this guide
-    url: /product/
-  - name: Discover the current state
-    url: /product/discover/
-  - name: Define the future state
-    url: /product/define/
-  - name: Deliver incremental value
-    url: /product/deliver/
-  - name: Enable partners
-    url: /product/partners/
-
-ux-guide:
-  - name: Overview
-    url: /ux-guide/
-  - name: Our approach
-    url: /ux-guide/our-approach/
-  - name: Research
-    url: /ux-guide/research/
-  - name: Design
-    url: /ux-guide/design/
+product-vision-cx-research:
+  - name: Home
+    url: /product-vision-cx-research/
 
 secondary_navigation:
-  - name: Previous version
-    url: /derisking/
-    guides: [derisking-government-tech]
-  - name: More 18F guides
+  - name: All PRA Guides
     url: /
 
-methods:
-  - name: Discover
-    url: /discover/
-    children:
-      - name: Cognitive walkthrough
-        url: /methods/discover/cognitive-walkthrough/
-      - name: Contextual inquiry
-        url: /methods/discover/contextual-inquiry/
-      - name: Design studio
-        url: /methods/discover/design-studio/
-      - name: Dot voting
-        url: /methods/discover/dot-voting/
-      - name: Five whys
-        url: /methods/discover/five-whys/
-      - name: Heuristic evaluation
-        url: /methods/discover/heuristic-evaluation/
-      - name: Hopes and fears
-        url: /methods/discover/hopes-and-fears/
-      - name: KJ method
-        url: /methods/discover/kj-method/
-      - name: Lean coffee
-        url: /methods/discover/lean-coffee/
-      - name: Stakeholder and user interviews
-        url: /methods/discover/stakeholder-and-user-interviews/
-      - name: Stakeholder influence mapping
-        url: /methods/discover/stakeholder-influence-mapping/
-      - name: See all Discover cards
-        url: /methods/discover/
-  - name: Decide
-    url: /methods/decide/
-    children:
-      - name: Archetypes
-        url: /methods/decide/archetypes/
-      - name: Affinity mapping
-        url: /methods/decide/affinity-mapping/
-      - name: Coding qualitative data
-        url: /methods/decide/qualitative-data-analysis/
-      - name: Comparative analysis
-        url: /methods/decide/comparative-analysis/
-      - name: Content audit
-        url: /methods/decide/content-audit/
-      - name: Design hypothesis
-        url: /methods/decide/design-hypothesis/
-      - name: Design principles
-        url: /methods/decide/design-principles/
-      - name: Interface audit
-        url: /methods/decide/interface-audit/
-      - name: Journey mapping
-        url: /methods/decide/journey-mapping/
-      - name: Mental modeling
-        url: /methods/decide/mental-modeling/
-      - name: Service blueprint
-        url: /methods/decide/service-blueprint/
-      - name: Site mapping
-        url: /methods/decide/site-mapping/
-      - name: Storyboarding
-        url: /methods/decide/storyboarding/
-      - name: Style tiles
-        url: /methods/decide/style-tiles/
-      - name: Task flow analysis
-        url: /methods/decide/task-flow-analysis/
-      - name: User scenarios
-        url: /methods/decide/user-scenarios/
-      - name: User stories
-        url: /methods/decide/user-stories/
-      - name: See all Decide cards
-        url: /methods/decide/
-  - name: Make
-    url: /methods/make/
-    children:
-      - name: Design pattern library
-        url: /methods/make/design-pattern-library/
-      - name: Prototyping
-        url: /methods/make/prototyping/
-      - name: Wireframing
-        url: /methods/make/wireframing/
-      - name: See all Make cards
-        url: /methods/make/
-  - name: Validate
-    url: /methods/validate/
-    children:
-      - name: Card sorting
-        url: /methods/validate/card-sorting/
-      - name: Multivariate testing
-        url: /methods/validate/multivariate-testing/
-      - name: Success metrics
-        url: /methods/validate/metrics/
-      - name: Usability testing
-        url: /methods/validate/usability-testing/
-      - name: Visual preference testing
-        url: /methods/validate/visual-preference-testing/
-      - name: See all Validate cards
-        url: /methods/validate/
-  - name: Fundamentals
-    url: /methods/fundamentals/
-    children:
-      - name: Compensation
-        url: /methods/fundamentals/compensation/
-      - name: Privacy
-        url: /methods/fundamentals/privacy/
-      - name: Recruiting
-        url: /methods/fundamentals/recruiting/
-      - name: See all Fundamentals cards
-        url: /methods/fundamentals/
-  - name: About
-    url: /methods/about/
-  - name: Print the Methods
-    url: /methods/print/
+  # - name: About
+  #   url: /methods/about/
