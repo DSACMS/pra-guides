@@ -19,10 +19,15 @@
   "repositoryURL": "https://github.com/DSACMS/pra-guides",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2110,
+  "laborHours": 6433,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -35,8 +40,8 @@
   "softwareType": "standalone/web",
   "languages": [
     "HTML",
-    "SCSS",
     "JavaScript",
+    "SCSS",
     "Shell",
     "Nunjucks",
     "Dockerfile"
@@ -46,10 +51,13 @@
     "0"
   ],
   "SBOM": "https://github.com/DSACMS/pra-guides/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-08-11T16:48:53Z",
-    "lastModified": "2025-09-11T14:14:53Z",
-    "metadataLastUpdated": "2025-11-21T16:49:57.516Z"
+    "lastModified": "2025-12-19T13:21:55Z",
+    "metadataLastUpdated": "2026-01-01T01:03:53.024Z"
   },
   "tags": [
     "PRA",
