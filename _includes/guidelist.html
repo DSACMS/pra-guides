@@ -1,28 +1,71 @@
 <section class="usa-section border-1 border-primary-dark">
   <div class="grid-container">
-  <h2>Links to actual guides as they appear online</h2>
+  <!-- <h2>Links to actual guides as they appear online</h2> -->
     <div class="grid-row grid-gap">
 
-      <div class="grid-col-6 tablet:grid-col-3 margin-top-2">
-        <a href="{{'/cms-cx-pra-playbook/' | url }}">
+      <!-- <div class="section--title section--playbook">
+        <a href="{{'/cms-cx-pra-playbook/' | url }}"> -->
           <!-- {% image_with_class "assets/_common/_img/guide_icons/accessibility.svg" "maxw-6" "" %} -->
-          <p>{{ titles_roots["cms-cx-pra-playbook"].title }}</p>
+          <!-- <p>{{ titles_roots["cms-cx-pra-playbook"].title }}</p>
         </a>
-      </div>
+      </div> -->
 
-      <div class="grid-col-6 tablet:grid-col-3 margin-top-2">
-        <a href="{{'/cx-center-of-excellence/' | url }}">
+      <section class="usa-prose grid-container section usa-section section--playbook" id="playbook">
+        <h2 class="section--title section--playbook--title">{{ titles_roots["cms-cx-pra-playbook"].title }}</h2>
+        <div class="grid-row">
+          <div class="grid-col-8">
+            <div class="section--header usa-content">
+              <p class="section--subtitle">A guide to CMS CX PRA playbook</p>
+              <p>Placeholder</p>
+              <a href="{{'/cms-cx-pra-playbook/' | url }}" class="usa-link a-see-all">See all {{ titles_roots["cms-cx-pra-playbook"].title }} items </a>
+            </div>
+          </div>
+          <div class="grid-col-4 sections-listing"><h3>Content includes</h3></div>
+        </div>
+      </section>
+
+      <!-- <div class="section--title section--excellence--title">
+        <a href="{{'/cx-center-of-excellence/' | url }}"> -->
           <!-- {% image_with_class "assets/_common/_img/guide_icons/agile.svg" "maxw-6" "" %} -->
-          <p>{{ titles_roots["cx-center-of-excellence"].title }}</p>
+          <!-- <p>{{ titles_roots["cx-center-of-excellence"].title }}</p>
         </a>
-      </div>
+      </div> -->
 
-      <div class="grid-col-6 tablet:grid-col-3 margin-top-2">
-        <a href="{{'/product-vision-cx-research/' | url }}">
+      <section class="usa-prose grid-container section usa-section section--excellence" id="excellence">
+        <h2 class="section--title section--excellence--title">{{ titles_roots["cx-center-of-excellence"].title }}</h2>
+        <div class="grid-row">
+          <div class="grid-col-8">
+            <div class="section--header usa-content">
+              <p class="section--subtitle">A guide to the CX Center of Excellence</p>
+              <p>Placeholder</p>
+              <a href="{{'/cx-center-of-excellence/' | url }}" class="usa-link a-see-all">See all {{ titles_roots["cx-center-of-excellence"].title }} items </a>
+            </div>
+          </div>
+          <div class="grid-col-4 sections-listing"><h3>Content includes</h3></div>
+        </div>
+      </section>
+
+      <!-- <div class="section--title section--research--title">
+        <a href="{{'/product-vision-cx-research/' | url }}"> -->
           <!-- {% image_with_class "assets/_common/_img/guide_icons/brand.svg" "maxw-6" "" %} -->
-          <p>{{ titles_roots["product-vision-cx-research"].title }}</p>
+          <!-- <p>{{ titles_roots["product-vision-cx-research"].title }}</p>
         </a>
-      </div>
+      </div> -->
+
+      <section class="usa-prose grid-container section usa-section section--research" id="research">
+        <h2 class="section--title section--playbook--title">{{ titles_roots["product-vision-cx-research"].title }}</h2>
+        <div class="grid-row">
+          <div class="grid-col-8">
+            <div class="section--header usa-content">
+              <p class="section--subtitle">A guide to the Product Vision CX Research Guide</p>
+              <p>Placeholder</p>
+              <a href="{{'/product-vision-cx-research/' | url }}" class="usa-link a-see-all">See all {{ titles_roots["product-vision-cx-research"].title }} items </a>
+            </div>
+          </div>
+          <div class="grid-col-4 sections-listing"><h3>Content includes</h3></div>
+        </div>
+      </section>
+    
 
       <!-- <div class="grid-col-6 tablet:grid-col-3 margin-top-2">
         <a href="{{'/content-guide/' | url }}">

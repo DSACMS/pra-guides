@@ -152,12 +152,16 @@ product-vision-cx-research:
     children:
       - name: Choose the Right Process
         url: /product-vision-cx-research/choose-the-right-process/
+      - name: Navigate the PRA
+        url: /product-vision-cx-research/navigate-the-paperwork-reduction-act/
       - name: PRA Compliance Without Clearance
         url: /product-vision-cx-research/pra-compliance-without-clearance/
       - name: Fast Track Approval Process
         url: /product-vision-cx-research/fast-track-approval-process/
       - name: Normal Clearance Approval Process
         url: /product-vision-cx-research/normal-clearance-approval-process/
+      - name: Submitting Your Research Request
+        url: /product-vision-cx-research/submitting-your-research-request/
   - name: Conducting Research
     children:
       - name: Learn How to Talk to Customers

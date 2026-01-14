@@ -1,3 +1,13 @@
+---
+title: PRA Compliance Without Clearance
+layout: layouts/page
+tags: product-vision-cx-research
+description: Complying with PRA without clearance
+permalink: /product-vision-cx-research/pra-compliance-without-clearance/
+sidenav: product-vision-cx-research
+sticky_sidenav: true
+---
+
 When conducting research, seeking PRA approval may not be appropriate for the type and quality of information you seek to collect. You also may be waiting for PRA approval to come through, but need initial customer research to make key design decisions. Start by designing a PRA compliant study to accomplish your initial research goals. 
 
 
