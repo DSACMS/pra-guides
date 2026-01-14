@@ -4,72 +4,199 @@ cms-cx-pra-playbook:
     url: /cms-cx-pra-playbook/
   - name: Understanding PRA
     children:
-    - name: Understanding the PRA
-      url: /cms-cx-pra-playbook/understanding-the-pra/
-    - name: How PRA Works
-      url: /cms-cx-pra-playbook/how-pra-works/
-    - name: What is an Information Collection?
-      url: /cms-cx-pra-playbook/what-is-an-information-collection/
-    - name: What are PRA Clearances?
-      url: /cms-cx-pra-playbook/what-are-pra-clearances/
-    - name: What is an OMB Control Number?
-      url: /cms-cx-pra-playbook/what-is-an-omb-control-number/
-    - name: When do I need a PRA Clearance for CX?
-      url: /cms-cx-pra-playbook/when-do-i-need-a-pra-clearance-for-cx/
+      - name: Understanding the PRA
+        url: /cms-cx-pra-playbook/understanding-the-pra/
+      - name: How PRA Works
+        url: /cms-cx-pra-playbook/how-pra-works/
+      - name: What is an Information Collection?
+        url: /cms-cx-pra-playbook/what-is-an-information-collection/
+      - name: What are PRA Clearances?
+        url: /cms-cx-pra-playbook/what-are-pra-clearances/
+      - name: What is an OMB Control Number?
+        url: /cms-cx-pra-playbook/what-is-an-omb-control-number/
+      - name: When do I need a PRA Clearance for CX?
+        url: /cms-cx-pra-playbook/when-do-i-need-a-pra-clearance-for-cx/
   - name: What to Consider
     children:
-    - name: Overview
-      url: /cms-cx-pra-playbook/what-to-consider/
-    - name: Who are you getting feedback from?
-      url: /cms-cx-pra-playbook/who-are-you-getting-feedback-from/
+      - name: Overview
+        url: /cms-cx-pra-playbook/what-to-consider/
+      - name: Who are you getting feedback from?
+        url: /cms-cx-pra-playbook/who-are-you-getting-feedback-from/
   - name: Navigate the PRA
     children:
-    - name: Select a PRA-Compliant Process
-      url: /cms-cx-pra-playbook/select-a-pra-compliant-process/
-    - name: PRA Compliance, Without Clearance
-      url: /cms-cx-pra-playbook/pra-compliance-without-clearance/
-    - name: Connect with People
-      url: /cms-cx-pra-playbook/connect-with-people/
+      - name: Select a PRA-Compliant Process
+        url: /cms-cx-pra-playbook/select-a-pra-compliant-process/
+      - name: PRA Compliance, Without Clearance
+        url: /cms-cx-pra-playbook/pra-compliance-without-clearance/
+      - name: Connect with People
+        url: /cms-cx-pra-playbook/connect-with-people/
   - name: Process Guides
     children:
-    - name: Generic Fast Track Process
-      url: /cms-cx-pra-playbook/generic-fast-track-process/
-    - name: Normal Clearance Process
-      url: /cms-cx-pra-playbook/normal-clearance-process/
+      - name: Generic Fast Track Process
+        url: /cms-cx-pra-playbook/generic-fast-track-process/
+      - name: Normal Clearance Process
+        url: /cms-cx-pra-playbook/normal-clearance-process/
   - name: Practical Guidance
     children:
-    - name: Get Quick Feedback from Customers
-      url: /cms-cx-pra-playbook/get-quick-feedback-from-customers/
-    - name: Accounting for Project Direction Changes
-      url: /cms-cx-pra-playbook/accounting-for-project-direction-changes/
+      - name: Get Quick Feedback from Customers
+        url: /cms-cx-pra-playbook/get-quick-feedback-from-customers/
+      - name: Accounting for Project Direction Changes
+        url: /cms-cx-pra-playbook/accounting-for-project-direction-changes/
   - name: Resources
     children:
-    - name: People
-      url: /cms-cx-pra-playbook/people/
-    - name: References
-      url: /cms-cx-pra-playbook/references/
+      - name: People
+        url: /cms-cx-pra-playbook/people/
+      - name: References
+        url: /cms-cx-pra-playbook/references/
 
 cx-center-of-excellence:
   - name: Welcome
     url: /cx-center-of-excellence/
   - name: Planning Your Research
     children:
-    - name: Before Getting Started
-      url: /cx-center-of-excellence/before-getting-started/
-    - name: Research Planning Assessment
-      url: /cx-center-of-excellence/research-planning-assessment/
-    - name: Planning Your Research
-      url: /cx-center-of-excellence/planning-your-research/
-    - name: Compliance
-      url: /cx-center-of-excellence/compliance/
+      - name: Before Getting Started
+        url: /cx-center-of-excellence/before-getting-started/
+      - name: Research Planning Assessment
+        url: /cx-center-of-excellence/research-planning-assessment/
+      - name: Planning Your Research
+        url: /cx-center-of-excellence/planning-your-research/
+      - name: Compliance
+        url: /cx-center-of-excellence/compliance/
   - name: PRA Guidance
     children:
-    - name: CX and the Paperwork Reduction Act
-      url: /cx-center-of-excellence/cx-and-paperwork-reduction-act/
+      - name: CX and the Paperwork Reduction Act
+        url: /cx-center-of-excellence/cx-and-paperwork-reduction-act/
+      - name: When PRA Applies
+        url: /cx-center-of-excellence/when-pra-applies/
+      - name: Clearance Types
+        url: /cx-center-of-excellence/clearance-types/
+      - name: Fast Track Approval Process
+        url: /cx-center-of-excellence/generic-fast-track-approval-process/
+      - name: Normal Clearance Approval Process
+        url: /cx-center-of-excellence/normal-clearance-approval-process/
+  - name: Research Methods
+    children:
+      - name: Overview
+        url: /cx-center-of-excellence/methods/
+      - name: Discovery Methods
+        url: /cx-center-of-excellence/discovery/
+      - name: Usability Testing
+        url: /cx-center-of-excellence/usability-testing/
+      - name: User Interviews
+        url: /cx-center-of-excellence/user-interviews/
+      - name: Card Sorting
+        url: /cx-center-of-excellence/card-sorting/
+      - name: Affinity Mapping
+        url: /cx-center-of-excellence/affinity-mapping/
+  - name: Conducting Research
+    children:
+      - name: How to Conduct Research with PRA in Mind
+        url: /cx-center-of-excellence/how-to-conduct-with-pra-in-mind/
+      - name: Consent Forms
+        url: /cx-center-of-excellence/consent-forms/
+      - name: Interview Guides
+        url: /cx-center-of-excellence/interview-guides/
+      - name: Participant Recruitment
+        url: /cx-center-of-excellence/participant-recruitment/
+      - name: Participant Compensation
+        url: /cx-center-of-excellence/participant-compensation/
+  - name: Special Topics
+    children:
+      - name: Equitable Research
+        url: /cx-center-of-excellence/cx-and-equitable-research/
+      - name: Excluded Populations (Disabilities)
+        url: /cx-center-of-excellence/cx-and-excluded-populations/
+      - name: Trauma-Informed Practices
+        url: /cx-center-of-excellence/trauma-informed-practices/
+  - name: Tools & Resources
+    children:
+      - name: Research Repository
+        url: /cx-center-of-excellence/research-repository/
+      - name: Touchpoints
+        url: /cx-center-of-excellence/touchpoints/
+      - name: Communities
+        url: /cx-center-of-excellence/communities/
+      - name: Organizations
+        url: /cx-center-of-excellence/organizations/
+  - name: Wrapping Up
+    children:
+      - name: Sharing and Archiving
+        url: /cx-center-of-excellence/sharing-and-archiving/
 
 product-vision-cx-research:
-  - name: Home
+  - name: Welcome
     url: /product-vision-cx-research/
+  - name: Getting Started
+    children:
+      - name: Before Getting Started
+        url: /product-vision-cx-research/before-getting-started/
+      - name: Planning Your Research
+        url: /product-vision-cx-research/planning-your-research/
+      - name: PRA Consideration Quiz
+        url: /product-vision-cx-research/pra-consideration-quiz/
+  - name: Understanding PRA
+    children:
+      - name: Understanding the PRA
+        url: /product-vision-cx-research/understanding-the-pra/
+      - name: The Paperwork Reduction Act
+        url: /product-vision-cx-research/paperwork-reduction-act/
+      - name: How PRA Works
+        url: /product-vision-cx-research/how-pra-works/
+      - name: When PRA Applies
+        url: /product-vision-cx-research/when-pra-applies/
+      - name: Information Collection Types
+        url: /product-vision-cx-research/information-collection-types/
+      - name: Clearance Types
+        url: /product-vision-cx-research/clearance-types/
+  - name: Choosing Your Path
+    children:
+      - name: Choose the Right Process
+        url: /product-vision-cx-research/choose-the-right-process/
+      - name: PRA Compliance Without Clearance
+        url: /product-vision-cx-research/pra-compliance-without-clearance/
+      - name: Fast Track Approval Process
+        url: /product-vision-cx-research/fast-track-approval-process/
+      - name: Normal Clearance Approval Process
+        url: /product-vision-cx-research/normal-clearance-approval-process/
+  - name: Conducting Research
+    children:
+      - name: Learn How to Talk to Customers
+        url: /product-vision-cx-research/learn-how-to-talk-to-customers/
+      - name: Conduct Research
+        url: /product-vision-cx-research/conduct-research/
+      - name: CX Methods
+        url: /product-vision-cx-research/cx-methods/
+      - name: Participant Recruitment
+        url: /product-vision-cx-research/participant-recruitment/
+      - name: Participant Compensation
+        url: /product-vision-cx-research/participant-compensation/
+      - name: Privacy Considerations
+        url: /product-vision-cx-research/privacy/
+      - name: Legal Considerations
+        url: /product-vision-cx-research/legal/
+      - name: Trauma-Informed Practices
+        url: /product-vision-cx-research/trauma-informed-practices/
+  - name: Wrapping Up
+    children:
+      - name: Wrapping Up Your Research
+        url: /product-vision-cx-research/wrapping-up-your-research/
+      - name: Sharing Research
+        url: /product-vision-cx-research/sharing-research/
+      - name: Archiving Research
+        url: /product-vision-cx-research/archiving-research/
+      - name: Research Repository
+        url: /product-vision-cx-research/research-repository/
+  - name: Resources
+    children:
+      - name: People & Organizations
+        url: /product-vision-cx-research/people/
+      - name: References
+        url: /product-vision-cx-research/references/
+      - name: Case Studies
+        url: /product-vision-cx-research/case-studies/
+      - name: 21st Century IDEAS Act
+        url: /product-vision-cx-research/21st-century-ideas-act/
+
 
 secondary_navigation:
   - name: All PRA Guides
