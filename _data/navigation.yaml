@@ -1,6 +1,6 @@
 # The primary navigation for each guide
 cms-cx-pra-playbook:
-  - name: Welcome
+  - name: CMS CX PRA Playbook
     url: /cms-cx-pra-playbook/
   - name: Understanding PRA
     children:
@@ -50,7 +50,7 @@ cms-cx-pra-playbook:
         url: /cms-cx-pra-playbook/references/
 
 cx-center-of-excellence:
-  - name: Welcome
+  - name: CX Center of Excellence
     url: /cx-center-of-excellence/
   - name: Planning Your Research
     children:
@@ -124,7 +124,7 @@ cx-center-of-excellence:
         url: /cx-center-of-excellence/sharing-and-archiving/
 
 product-vision-cx-research:
-  - name: Welcome
+  - name: Product Vision CX Research
     url: /product-vision-cx-research/
   - name: Getting Started
     children:
