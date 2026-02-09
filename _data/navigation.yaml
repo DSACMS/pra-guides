@@ -201,6 +201,45 @@ product-vision-cx-research:
       - name: 21st Century IDEAS Act
         url: /product-vision-cx-research/21st-century-ideas-act/
 
+pra-testing-space:
+  - name: PRA Testing Space
+    url: /pra-testing-space/
+  - name: Overview
+    children:
+      - name: Accounting for Project Direction Changes
+        url: /pra-testing-space/accounting-for-project-direction-changes/
+      - name: Clearance Types
+        url: /pra-testing-space/clearance-types/
+      - name: Conducting Your Research
+        url: /pra-testing-space/conducting-your-research/
+      - name: Considerations
+        url: /pra-testing-space/considerations/
+      - name: Definitions
+        url: /pra-testing-space/definitions/
+      - name: Generic - Fast Track Approval Process
+        url: /pra-testing-space/generic-fast-track-approval-process/
+      - name: Normal - Clearance Approval Process
+        url: /pra-testing-space/normal-clearance-approval-process/
+      - name: How It Works
+        url: /pra-testing-space/how-it-works/
+      - name: Process For Getting Clearance
+        url: /pra-testing-space/process-for-getting-clearance/
+      - name: Questions That Might Live In Content
+        url: /pra-testing-space/questions-that-might-live-in-content/
+      - name: Research Planning Assessment
+        url: /pra-testing-space/research-planning-assessment/
+      - name: Stages of the Design Process
+        url: /pra-testing-space/stages-of-the-design-process/
+      - name: Submitting Your Research Request
+        url: /pra-testing-space/submitting-your-research-request/
+      - name: Thank you for providing feedback
+        url: /pra-testing-space/thank-you-for-providing-feedback/
+  - name: Resources
+    children:
+      - name: References
+        url: /pra-testing-space/references/
+      - name: People Included
+        url: /pra-testing-space/people-included/
 
 secondary_navigation:
   - name: All PRA Guides

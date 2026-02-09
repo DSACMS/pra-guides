@@ -1,3 +1,13 @@
+---
+title: Considerations
+layout: layouts/page
+tags: pra-testing-space
+description: Considerations
+permalink: pra-testing-space/considerations/
+sidenav: pra-testing-space
+sticky_sidenav: true
+---
+
 This chapter describes the stages of the design process and PRA considerations when planning research. 
 
 Before starting a research study, consider going over both pieces, as PRA may come into play depending on your desired project direction. 

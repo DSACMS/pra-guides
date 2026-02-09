@@ -1,4 +1,14 @@
-## 
+---
+title: Questions That Might Live In Content
+layout: layouts/page
+tags: pra-testing-space
+description: How to navigate the process for getting clearance
+permalink: pra-testing-space/questions-that-might-live-in-content/
+sidenav: pra-testing-space
+sticky_sidenav: true
+---
+
+## Questions That Might Live In Content
 
 # **Understanding the PRA**
 

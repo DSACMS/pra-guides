@@ -1,3 +1,13 @@
+---
+title: Clearance Types
+layout: layouts/page
+tags: pra-testing-space
+description: Clearance types
+permalink: pra-testing-space/clearance-types/
+sidenav: pra-testing-space
+sticky_sidenav: true
+---
+
 ### This page covers clearances most commonly used at CMS. For additional information about clearance types, visit [pra.digital.gov](https://pra.digital.gov/clearance-types/)
 
 # Normal clearance
