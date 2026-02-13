@@ -13,16 +13,22 @@
     ],
     "usageType": [
       "openSource"
-    ]
+    ],
+    "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/pra-guides",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2110,
+  "laborHours": 9790,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -46,10 +52,13 @@
     "0"
   ],
   "SBOM": "https://github.com/DSACMS/pra-guides/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-08-11T16:48:53Z",
-    "lastModified": "2025-09-11T14:14:53Z",
-    "metadataLastUpdated": "2025-11-21T16:49:57.516Z"
+    "lastModified": "2025-12-04T19:29:39Z",
+    "metadataLastUpdated": "2025-12-11T19:01:21.614Z"
   },
   "tags": [
     "PRA",
@@ -69,7 +78,7 @@
   "fismaLevel": "low",
   "group": "HHS/CMS/OA/DSAC",
   "projects": [
-    "n/a"
+    "pra"
   ],
   "systems": [],
   "subsetInHealthcare": [
