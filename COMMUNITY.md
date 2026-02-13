@@ -192,12 +192,21 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/DinneK">
+                    <img src="https://avatars.githubusercontent.com/u/63877492?v=4" width="100;" alt="DinneK"/>
+                    <br />
+                    <sub><b>Dinne Kopelevich</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/mitogi">
                     <img src="https://avatars.githubusercontent.com/u/171743050?v=4" width="100;" alt="mitogi"/>
                     <br />
                     <sub><b>Michelle Partogi</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/geekygirlsarah">
                     <img src="https://avatars.githubusercontent.com/u/2601974?v=4" width="100;" alt="geekygirlsarah"/>
@@ -205,8 +214,6 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>Sarah Withee</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/jasnakai">
                     <img src="https://avatars.githubusercontent.com/u/106776019?v=4" width="100;" alt="jasnakai"/>
@@ -242,6 +249,8 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>Peter Rowland</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/jduss4">
                     <img src="https://avatars.githubusercontent.com/u/2480492?v=4" width="100;" alt="jduss4"/>
@@ -249,8 +258,6 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>Jessica D</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/nicoleslaw">
                     <img src="https://avatars.githubusercontent.com/u/94900?v=4" width="100;" alt="nicoleslaw"/>
@@ -286,6 +293,8 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>Claire Blaustein</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/voidlily">
                     <img src="https://avatars.githubusercontent.com/u/221749?v=4" width="100;" alt="voidlily"/>
@@ -293,8 +302,6 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>lily r</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/SSPJ">
                     <img src="https://avatars.githubusercontent.com/u/15718530?v=4" width="100;" alt="SSPJ"/>
@@ -307,13 +314,6 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <img src="https://avatars.githubusercontent.com/u/3013175?v=4" width="100;" alt="cantsin"/>
                     <br />
                     <sub><b>James Tranovich</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/DinneK">
-                    <img src="https://avatars.githubusercontent.com/u/63877492?v=4" width="100;" alt="DinneK"/>
-                    <br />
-                    <sub><b>Dinne Kopelevich</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -331,10 +331,10 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/dluetger">
-                    <img src="https://avatars.githubusercontent.com/u/13407982?v=4" width="100;" alt="dluetger"/>
+                <a href="https://github.com/edwintorres">
+                    <img src="https://avatars.githubusercontent.com/u/4247796?v=4" width="100;" alt="edwintorres"/>
                     <br />
-                    <sub><b>Dave Luetger</b></sub>
+                    <sub><b>Edwin Torres</b></sub>
                 </a>
             </td>
 		</tr>
@@ -347,17 +347,10 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/edwintorres">
-                    <img src="https://avatars.githubusercontent.com/u/4247796?v=4" width="100;" alt="edwintorres"/>
+                <a href="https://github.com/dluetger">
+                    <img src="https://avatars.githubusercontent.com/u/13407982?v=4" width="100;" alt="dluetger"/>
                     <br />
-                    <sub><b>Edwin Torres</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/mgwalker">
-                    <img src="https://avatars.githubusercontent.com/u/1775733?v=4" width="100;" alt="mgwalker"/>
-                    <br />
-                    <sub><b>Greg Walker</b></sub>
+                    <sub><b>Dave Luetger</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -368,10 +361,40 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Snp-Rj-Ind-code-error-420">
-                    <img src="https://avatars.githubusercontent.com/u/80396878?v=4" width="100;" alt="Snp-Rj-Ind-code-error-420"/>
+                <a href="https://github.com/mgwalker">
+                    <img src="https://avatars.githubusercontent.com/u/1775733?v=4" width="100;" alt="mgwalker"/>
                     <br />
-                    <sub><b>420</b></sub>
+                    <sub><b>Greg Walker</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/alia-salim">
+                    <img src="https://avatars.githubusercontent.com/u/170752237?v=4" width="100;" alt="alia-salim"/>
+                    <br />
+                    <sub><b>alia-salim</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/natalialuzuriaga">
+                    <img src="https://avatars.githubusercontent.com/u/29980737?v=4" width="100;" alt="natalialuzuriaga"/>
+                    <br />
+                    <sub><b>Natalia Luzuriaga</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/beepdotgov">
+                    <img src="https://avatars.githubusercontent.com/u/170676235?v=4" width="100;" alt="beepdotgov"/>
+                    <br />
+                    <sub><b>Ethan Marcotte</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/cannandev">
+                    <img src="https://avatars.githubusercontent.com/u/381122?v=4" width="100;" alt="cannandev"/>
+                    <br />
+                    <sub><b>Claire Annan</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -381,27 +404,11 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>Aidan Feldman</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
-                <a href="https://github.com/cannandev">
-                    <img src="https://avatars.githubusercontent.com/u/381122?v=4" width="100;" alt="cannandev"/>
+                <a href="https://github.com/Snp-Rj-Ind-code-error-420">
+                    <img src="https://avatars.githubusercontent.com/u/80396878?v=4" width="100;" alt="Snp-Rj-Ind-code-error-420"/>
                     <br />
-                    <sub><b>Claire Annan</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/beepdotgov">
-                    <img src="https://avatars.githubusercontent.com/u/170676235?v=4" width="100;" alt="beepdotgov"/>
-                    <br />
-                    <sub><b>Ethan Marcotte</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/alia-salim">
-                    <img src="https://avatars.githubusercontent.com/u/170752237?v=4" width="100;" alt="alia-salim"/>
-                    <br />
-                    <sub><b>alia-salim</b></sub>
+                    <sub><b>420</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -418,6 +425,8 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>Mark Headd</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/MelissaBraxton">
                     <img src="https://avatars.githubusercontent.com/u/20651166?v=4" width="100;" alt="MelissaBraxton"/>
@@ -425,8 +434,6 @@ Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COU
                     <sub><b>Melissa Braxton</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/iamjolly">
                     <img src="https://avatars.githubusercontent.com/u/1093423?v=4" width="100;" alt="iamjolly"/>
