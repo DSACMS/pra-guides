@@ -41,8 +41,8 @@
   "softwareType": "standalone/web",
   "languages": [
     "HTML",
-    "SCSS",
     "JavaScript",
+    "SCSS",
     "Shell",
     "Nunjucks",
     "Dockerfile"
