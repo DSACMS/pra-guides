@@ -1,12 +1,13 @@
 ---
-title: Active Research
+title: 21st Century Ideas Act
 layout: layouts/page
-tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+tags: product-vision-cx-research
+description: 21st Century Ideas Act
+permalink: /product-vision-cx-research/21st-century-ideas-act/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
+
 
 <div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
@@ -19,7 +20,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on tools for customer experience research at cms.
 
 ## In the meantime
 
@@ -35,4 +36,3 @@ Related resources you can explore now:
 For advice or consultation on your CX research plan, please contact the **Customer Experience Center of Excellence (CX CoE)**.
 
 For questions about the Paperwork Reduction Act, please contact the **[Office of Strategic Operations and Regulatory Affairs (OSORA)](/cx-center-of-excellence/organizations/)**.
- 

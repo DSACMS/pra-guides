@@ -1,16 +1,39 @@
 ---
-title: Active Research
+title: Conducting Your Research
 layout: layouts/page
-tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+tags: product-vision-cx-research
+description: Conducting Your Research
+permalink: /product-vision-cx-research/conducting-your-research/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
 
+```
+
+
+
+```
+
+
+
+
+
+```
+
+
+```
+
+# **Questions for OSORA**
+
+- What could be added?
+- What’s missing?
+- What could improve?
+- What’s not working?
+
+
 <div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
-    <h4 class="usa-alert__heading">Content Coming Soon</h4>
+    <h4 class="usa-alert__heading">More Content Coming Soon</h4>
     <p class="usa-alert__text">
       This page is currently under development. Check back soon for detailed guidance on this topic.
     </p>
@@ -19,7 +42,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on tools for customer experience research at cms.
 
 ## In the meantime
 
@@ -35,4 +58,4 @@ Related resources you can explore now:
 For advice or consultation on your CX research plan, please contact the **Customer Experience Center of Excellence (CX CoE)**.
 
 For questions about the Paperwork Reduction Act, please contact the **[Office of Strategic Operations and Regulatory Affairs (OSORA)](/cx-center-of-excellence/organizations/)**.
- 
+   

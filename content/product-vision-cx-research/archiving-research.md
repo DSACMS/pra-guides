@@ -1,9 +1,9 @@
 ---
-title: Active Research
+title: Archiving Research
 layout: layouts/page
-tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+tags: product-vision-cx-research
+description: Archiving research
+permalink: /product-vision-cx-research/archiving-research/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
@@ -19,7 +19,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on tools for customer experience research at cms.
 
 ## In the meantime
 

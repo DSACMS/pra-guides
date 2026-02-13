@@ -1,9 +1,9 @@
 ---
-title: Active Research
+title: Accounting For Project Direction Changes
 layout: layouts/page
 tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+description: Accounting for project direction changes
+permalink: /cx-center-of-excellence/accounting-for-project-direction-changes/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
@@ -19,7 +19,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on accounting for project direction changes for customer experience research at cms.
 
 ## In the meantime
 
@@ -35,4 +35,4 @@ Related resources you can explore now:
 For advice or consultation on your CX research plan, please contact the **Customer Experience Center of Excellence (CX CoE)**.
 
 For questions about the Paperwork Reduction Act, please contact the **[Office of Strategic Operations and Regulatory Affairs (OSORA)](/cx-center-of-excellence/organizations/)**.
- 
+  

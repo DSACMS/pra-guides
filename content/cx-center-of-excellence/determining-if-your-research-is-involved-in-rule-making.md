@@ -1,9 +1,9 @@
 ---
-title: Active Research
+title: Determining if your research is involved in rule making
 layout: layouts/page
 tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+description: Determining if your research is involved in rule making
+permalink: /cx-center-of-excellence/determining-if-your-research-is-involved-in-rule-making/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
@@ -19,7 +19,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on determining if your research is involved in rule making for customer experience research at cms.
 
 ## In the meantime
 

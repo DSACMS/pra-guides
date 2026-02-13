@@ -1,9 +1,9 @@
 ---
-title: Active Research
+title: Accounting For Project Direction Changes
 layout: layouts/page
-tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+tags: product-vision-cx-research
+description: Accounting for project direction changes
+permalink: /product-vision-cx-research/accounting-for-project-direction-changes/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
@@ -19,7 +19,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on tools for customer experience research at cms.
 
 ## In the meantime
 
