@@ -1,9 +1,9 @@
 ---
-title: Active Research
+title: Trauma-Informed Practices
 layout: layouts/page
-tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+tags: product-vision-cx-research
+description: Trauma-informed practices
+permalink: /product-vision-cx-research/trauma-informed-practices/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
@@ -19,7 +19,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on trauma-informed practices for customer experience research at cms.
 
 ## In the meantime
 

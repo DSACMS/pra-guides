@@ -15,3 +15,9 @@ product-vision-cx-research:
   name: Product Vision CX Research
   description: Product Vision CX Research Guide - your practical guide for conducting customer experience research while navigating the Paperwork Reduction Act (PRA).
   info: This guide provides streamlined, actionable guidance for - Planning and cunducting CX research at CMS.
+
+pra-testing-space:
+  path: /pra-testing-space/
+  name: PRA Testing Space
+  description:  Testing space for PRA-related activities, such as mock submissions, training exercises, or collaborative workshops. This space allows teams to practice and refine their understanding of the PRA process in a risk-free environment.
+  info: This testing space is designed to help teams familiarize themselves with the PRA process, identify potential challenges, and develop effective strategies for compliance. It provides a safe environment for experimentation and learning, allowing teams to build confidence in navigating the complexities of the PRA while conducting customer experience research at CMS.

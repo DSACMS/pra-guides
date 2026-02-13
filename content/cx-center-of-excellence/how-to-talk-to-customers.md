@@ -1,16 +1,24 @@
 ---
-title: Active Research
+title: How to talk to customers
 layout: layouts/page
 tags: cx-center-of-excellence
-description: Active Research
-permalink: /cx-center-of-excellence/active-research/
+description: How to talk to customers
+permalink: /cx-center-of-excellence/how-to-talk-to-customers/
 sidenav: product-vision-cx-research
 sticky_sidenav: true
 ---
 
+[https://www.dhs.gov/cx/how-do-I-talk-to-customers](https://www.dhs.gov/cx/how-do-I-talk-to-customers) 
+
+```
+```
+
+
+```
+```
 <div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
-    <h4 class="usa-alert__heading">Content Coming Soon</h4>
+    <h4 class="usa-alert__heading">More Content Coming Soon</h4>
     <p class="usa-alert__text">
       This page is currently under development. Check back soon for detailed guidance on this topic.
     </p>
@@ -19,7 +27,7 @@ sticky_sidenav: true
 
 ## What to expect
 
-This page will provide guidance on active research for customer experience research at cms.
+This page will provide guidance on how to talk to customers for customer experience research at cms.
 
 ## In the meantime
 
