@@ -20,3 +20,4 @@ jobs:
         uses: DSACMS/repo-sunsetter@v1.0.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USE_MATURITY_MODEL_TIERS: "true"
