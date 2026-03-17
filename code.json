@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "PRA Guides is a static Eleventy site providing clear, structured guidance and resources for Paperwork Reduction Act compliance.",
   "longDescription": "PRA Guides is a static documentation site built with Eleventy, Liquid templates, and Markdown to provide clear, accessible guidance on Paperwork Reduction Act (PRA) requirements. The repository organizes key concepts, workflows, and reference materials to help teams understand, plan, and document PRA related activities. It serves as a centralized, version-controlled resource that supports updates, contributions, and continuous improvements through a lightweight, code-based workflow. The site is designed for teams and collaborators who need accurate, maintainable PRA documentation.",
-  "status": "Development",
+  "status": "Archival",
   "permissions": {
     "licenses": [
       {
@@ -25,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9790,
+  "laborHours": 7194,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -42,8 +42,9 @@
   "languages": [
     "HTML",
     "JavaScript",
-    "SCSS",
     "Shell",
+    "SCSS",
+    "Python",
     "Nunjucks",
     "Dockerfile"
   ],
@@ -57,14 +58,15 @@
   "partners": [],
   "date": {
     "created": "2025-08-11T16:48:53Z",
-    "lastModified": "2025-12-04T19:29:39Z",
-    "metadataLastUpdated": "2025-12-11T19:01:21.614Z"
+    "lastModified": "2026-03-17T16:35:51Z",
+    "metadataLastUpdated": "2026-03-17T16:37:52.903Z"
   },
   "tags": [
     "PRA",
     "documentation",
     "OSPO",
-    "Paperwork Reduction Act"
+    "Paperwork Reduction Act",
+    "archived"
   ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
