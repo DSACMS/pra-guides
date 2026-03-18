@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "PRA Guides is a static Eleventy site providing clear, structured guidance and resources for Paperwork Reduction Act compliance.",
   "longDescription": "PRA Guides is a static documentation site built with Eleventy, Liquid templates, and Markdown to provide clear, accessible guidance on Paperwork Reduction Act (PRA) requirements. The repository organizes key concepts, workflows, and reference materials to help teams understand, plan, and document PRA related activities. It serves as a centralized, version-controlled resource that supports updates, contributions, and continuous improvements through a lightweight, code-based workflow. The site is designed for teams and collaborators who need accurate, maintainable PRA documentation.",
-  "status": "Development",
+  "status": "Archival",
   "permissions": {
     "licenses": [
       {
@@ -13,16 +13,22 @@
     ],
     "usageType": [
       "openSource"
-    ]
+    ],
+    "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/pra-guides",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2110,
+  "laborHours": 7194,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -35,9 +41,10 @@
   "softwareType": "standalone/web",
   "languages": [
     "HTML",
-    "SCSS",
     "JavaScript",
     "Shell",
+    "SCSS",
+    "Python",
     "Nunjucks",
     "Dockerfile"
   ],
@@ -46,16 +53,20 @@
     "0"
   ],
   "SBOM": "https://github.com/DSACMS/pra-guides/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-08-11T16:48:53Z",
-    "lastModified": "2025-09-11T14:14:53Z",
-    "metadataLastUpdated": "2025-11-21T16:49:57.516Z"
+    "lastModified": "2026-03-17T19:04:27Z",
+    "metadataLastUpdated": "2026-03-17T23:53:41.135Z"
   },
   "tags": [
     "PRA",
     "documentation",
     "OSPO",
-    "Paperwork Reduction Act"
+    "Paperwork Reduction Act",
+    "archived"
   ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
@@ -69,7 +80,7 @@
   "fismaLevel": "low",
   "group": "HHS/CMS/OA/DSAC",
   "projects": [
-    "n/a"
+    "pra"
   ],
   "systems": [],
   "subsetInHealthcare": [
@@ -79,5 +90,5 @@
   "userType": [
     "government"
   ],
-  "maturityModelTier": 3
+  "maturityModelTier": 1
 }

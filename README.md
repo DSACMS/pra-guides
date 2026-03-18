@@ -1,4 +1,7 @@
 # pra-guides
+> [!WARNING]
+> This project is now archived and no longer actively maintained. It has been archived to retain its contents for reference. Feel free to explore and fork the repository, but please note that updates or support will not be provided.
+
 
 ## About the Project
 PRA Guides is a static documentation site built with Eleventy, Liquid templates, and Markdown to provide clear, accessible guidance on Paperwork Reduction Act (PRA) requirements. The repository organizes key concepts, workflows, and reference materials to help teams understand, plan, and document PRA related activities. It serves as a centralized, version-controlled resource that supports updates, contributions, and continuous improvements through a lightweight, code-based workflow. The site is designed for teams and collaborators who need accurate, maintainable PRA documentation.

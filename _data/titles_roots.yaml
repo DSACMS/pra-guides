@@ -2,36 +2,15 @@
 default:
   title: Guides
   root: /
-accessibility:
-  title: Accessibility
-  root: /accessibility/
-agile:
-  title: Agile
-  root: /agile/
-brand:
-  title: Visual identity
-  root: /brand/
-content-guide:
-  title: Content Guide
-  root: /content-guide/
-derisking:
-  title: De-risking Guide
-  root: /derisking/
-derisking-government-tech:
-  title: De-risking Guide
-  root: /derisking-government-tech/
-eng-hiring:
-  title: Engineering Hiring Guide
-  root: /eng-hiring/
-engineering:
-  title: Engineering
-  root: /engineering/
-product: 
-  title: Product Guide
-  root: /product/
-ux-guide:
-  title: User Experience Guide
-  root: /ux-guide/
-methods:
-  title: Methods
-  root: /methods/
+cms-cx-pra-playbook:
+  title: CMS CX and Paperwork Reduction Act Playbook
+  root: /cms-cx-pra-playbook/
+cx-center-of-excellence:
+  title: Customer Experience Center of Excellence
+  root: /cx-center-of-excellence/
+product-vision-cx-research:
+  title: Product Vision CX Research Guide
+  root: /product-vision-cx-research/
+pra-testing-space:
+  title: PRA Testing Space
+  root: /pra-testing-space/

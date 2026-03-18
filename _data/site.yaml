@@ -1,15 +1,12 @@
-title: 18F Guides
+title: CMS PRA Guides
 description: >- # this means to ignore newlines
-  A central resources for all 18F guides and methods
+  Resources and guidance for navigating the Paperwork Reduction Act at CMS
 
-host: https://guides.18f.gov
-
-# Twitter handle. Only the handle, not the URL.
-twitter: 18F
+host: https://guides.18f.gov #Change to PRA SITE
 
 dap:
-  agency: GSA
-  subagency: TTS
+  agency: HHS
+  subagency: CMS
 
 ga:
   ua: G-94QF2Z1S0G
@@ -26,7 +23,7 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # Replace this with your search.gov account.
-  affiliate: 18f-guides
+  affiliate: pra-guides
 
   # Replace this with your access key.
   access_key: empty

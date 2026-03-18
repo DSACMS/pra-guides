@@ -1,245 +1,349 @@
 # The primary navigation for each guide
-accessibility:
-  - name: Home
-    url: /accessibility/
-  - name: Other .Gov Accessibility Sites
-    url: /accessibility/gov-resources/
-
-agile:
-  - name: Home
-    url: /agile/
-
-brand:
-  - name: Introduction
-    url: /brand/
-  - name: Logo
-    url: /brand/logo/
-  - name: Color palette
-    url: /brand/color-palette/
-  - name: Typography
-    url: /brand/typography/
-  - name: Icons
-    url: /brand/icons/
-  - name: Templates
-    url: /brand/templates/
-  - name: Images
-    url: /brand/images/
-  - name: Principles
-    url: /brand/principles/
-
-content-guide:
-  - name: About this guide
-    url: /content-guide/
-  - name: Our approach
-    url: /content-guide/our-approach/
-  - name: Our style
-    url: /content-guide/our-style/
-
-derisking:
-  - name: Home
-    url: /derisking/
-  - name: State Software Budgeting
-    url: /derisking/state-field-guide/
-  - name: Federal Field Guide
-    url: /derisking/federal-field-guide/
-  - name: QASP
-    url: /derisking/qasp/
-
-derisking-government-tech:
-  - name: Read the guide
+cms-cx-pra-playbook:
+  - name: CMS CX PRA Playbook
+    url: /cms-cx-pra-playbook/
+  - name: Understanding PRA
     children:
-      - name: Introduction
-        url: /derisking-government-tech/
-      - name: Choosing a software solution
-        url: /derisking-government-tech/software-solutions/
-      - name: Key principles
-        url: /derisking-government-tech/principles/
-      - name: Buying custom software
-        url: /derisking-government-tech/buying-development-services/
-      - name: Vendor management
-        url: /derisking-government-tech/vendor-management/
-      - name: Conclusion
-        url: /derisking-government-tech/conclusion/
-  - name: About
-    url: /derisking-government-tech/about/
-  - name: Resources
-    url: /derisking-government-tech/resources/
-  - name: Download
-    url: /assets/derisking-government-tech/dist/18f-derisking-guide.pdf
-    download: true
-
-eng-hiring:
-  - name: Overview
-    url: /eng-hiring/
-  - name: 1. Resume review
-    url: /eng-hiring/resume-review/
-  - name: 2. Phone screen
-    url: /eng-hiring/phone-screens/
-  - name: 3. Pre-work
-    url: /eng-hiring/pre-work/
-  - name: 4. Interviews
+      - name: Understanding the PRA
+        url: /cms-cx-pra-playbook/understanding-the-pra/
+      - name: How PRA Works
+        url: /cms-cx-pra-playbook/how-pra-works/
+      - name: What is an Information Collection?
+        url: /cms-cx-pra-playbook/what-is-an-information-collection/
+      - name: What are PRA Clearances?
+        url: /cms-cx-pra-playbook/what-are-pra-clearances/
+      - name: What is an OMB Control Number?
+        url: /cms-cx-pra-playbook/what-is-an-omb-control-number/
+      - name: When do I need a PRA Clearance for CX?
+        url: /cms-cx-pra-playbook/when-do-i-need-a-pra-clearance-for-cx/
+  - name: What to Consider
     children:
       - name: Overview
-        url: /eng-hiring/interviews/
-      - name: Core values interview
-        url: /eng-hiring/interviews/core-values/
-      - name: Technical interview
-        url: /eng-hiring/interviews/technical/
-      - name: Code review interview
-        url: /eng-hiring/interviews/code-review/
-      - name: Wrap-up interview
-        url: /eng-hiring/interviews/wrap-up/
-  - name: 5. Debrief
-    url: /eng-hiring/debrief/
-  - name: 6. Final selection
-    url: /eng-hiring/selection/
+        url: /cms-cx-pra-playbook/what-to-consider/
+      - name: Who are you getting feedback from?
+        url: /cms-cx-pra-playbook/who-are-you-getting-feedback-from/
+  - name: Navigate the PRA
+    children:
+      - name: Select a PRA-Compliant Process
+        url: /cms-cx-pra-playbook/select-a-pra-compliant-process/
+      - name: PRA Compliance, Without Clearance
+        url: /cms-cx-pra-playbook/pra-compliance-without-clearance/
+      - name: Connect with People
+        url: /cms-cx-pra-playbook/connect-with-people/
+  - name: Process Guides
+    children:
+      - name: Generic Fast Track Process
+        url: /cms-cx-pra-playbook/generic-fast-track-process/
+      - name: Normal Clearance Process
+        url: /cms-cx-pra-playbook/normal-clearance-process/
+  - name: Practical Guidance
+    children:
+      - name: Get Quick Feedback from Customers
+        url: /cms-cx-pra-playbook/get-quick-feedback-from-customers/
+      - name: Accounting for Project Direction Changes
+        url: /cms-cx-pra-playbook/accounting-for-project-direction-changes/
+  - name: Resources
+    children:
+      - name: People
+        url: /cms-cx-pra-playbook/people/
+      - name: References
+        url: /cms-cx-pra-playbook/references/
 
-engineering:
-  - name: About this guide
-    url: /engineering/
-  - name: Our approach
-    url: /engineering/our-approach/
-  - name: Tools
-    url: /engineering/tools/
-  - name: Language & Runtimes
-    url: /engineering/languages-runtimes/
-  - name: Security
-    url: /engineering/security/
+cx-center-of-excellence:
+  - name: CX Center of Excellence
+    url: /cx-center-of-excellence/
+  - name: Planning Your Research
+    children:
+      - name: Before Getting Started
+        url: /cx-center-of-excellence/before-getting-started/
+      - name: CX and the Paperwork Reduction Act Guide 
+        url: /cx-center-of-excellence/cx-and-paperwork-reduction-act-guide/
+      - name: How It Works
+        url: /cx-center-of-excellence/how-it-works/
+      - name: How is qualitative research different than surveying?
+        url: /cx-center-of-excellence/how-is-qualitative-research-different-than-surveying/
+      - name: Research Planning Assessment
+        url: /cx-center-of-excellence/research-planning-assessment/
+      - name: Planning Your Research
+        url: /cx-center-of-excellence/planning-your-research/
+      - name: Determining if your research is involved in rule making
+        url: /cx-center-of-excellence/determining-if-your-research-is-involved-in-rule-making/
+      - name: Compliance
+        url: /cx-center-of-excellence/compliance/
+  - name: PRA Guidance
+    children:
+      - name: CX and the Paperwork Reduction Act
+        url: /cx-center-of-excellence/cx-and-paperwork-reduction-act/
+      - name: Understand the Paperwork Reduction Act
+        url: /cx-center-of-excellence/understand-the-paperwork-reduction-act/
+      - name: Paperwork Reduction Act Basics
+        url: /cx-center-of-excellence/paperwork-reduction-act-basics/
+      - name: Navigate the Paperwork Reduction Act
+        url: /cx-center-of-excellence/navigate-the-paperwork-reduction-act/
+      - name: When PRA Applies
+        url: /cx-center-of-excellence/when-pra-applies/
+      - name: Stages of the Design Process
+        url: /cx-center-of-excellence/stages-of-the-design-process/
+      - name: Types of Information Collection Requests
+        url: /cx-center-of-excellence/types-of-information-collection-requests/
+      - name: Clearance Types
+        url: /cx-center-of-excellence/clearance-types/
+      - name: Process for Getting Clearance
+        url: /cx-center-of-excellence/process-for-getting-clearance/
+      - name: Fast Track Approval Process
+        url: /cx-center-of-excellence/generic-fast-track-approval-process/
+      - name: Normal Clearance Approval Process
+        url: /cx-center-of-excellence/normal-clearance-approval-process/
+      - name: Seeking Approval
+        url: /cx-center-of-excellence/seeking-approval/
+  - name: Research Methods
+    children:
+      - name: Overview
+        url: /cx-center-of-excellence/methods/
+      - name: Discovery Methods
+        url: /cx-center-of-excellence/discovery/
+      - name: Usability Testing
+        url: /cx-center-of-excellence/usability-testing/
+      - name: User Interviews
+        url: /cx-center-of-excellence/user-interviews/
+      - name: Card Sorting
+        url: /cx-center-of-excellence/card-sorting/
+      - name: Affinity Mapping
+        url: /cx-center-of-excellence/affinity-mapping/
+      - name: Outreach
+        url: /cx-center-of-excellence/outreach/
+      - name: Processes
+        url: /cx-center-of-excellence/processes/
+  - name: Conducting Research
+    children:
+      - name: How to Conduct Research with PRA in Mind
+        url: /cx-center-of-excellence/how-to-conduct-with-pra-in-mind/
+      - name: Considerations
+        url: /cx-center-of-excellence/considerations/
+      - name: How to talk to customers
+        url: /cx-center-of-excellence/how-to-talk-to-customers/
+      - name: Consent Forms
+        url: /cx-center-of-excellence/consent-forms/
+      - name: What are you getting feedback on?
+        url: /cx-center-of-excellence/what-are-you-getting-feedback-on/
+      - name: What type of feedback are you hoping to receive?
+        url: /cx-center-of-excellence/what-type-of-feedback-are-you-hoping-to-receive/
+      - name: Who is collecting the information?
+        url: /cx-center-of-excellence/who-is-collecting-the-information/
+      - name: Who are you getting feedback from?
+        url: /cx-center-of-excellence/who-are-you-getting-feedback-from/
+      - name: Why are you collecting information?
+        url: /cx-center-of-excellence/why-are-you-collecting-information/
+      - name: Interview Guides
+        url: /cx-center-of-excellence/interview-guides/
+      - name: Participant Recruitment
+        url: /cx-center-of-excellence/participant-recruitment/
+      - name: Participant Compensation
+        url: /cx-center-of-excellence/participant-compensation/
+      - name: Active Research  
+        url: /cx-center-of-excellence/active-research/
+      - name: Activities
+        url: /cx-center-of-excellence/activities-chart/
+      - name: Evaluation
+        url: /cx-center-of-excellence/evaluation/
+      - name: Submitting Your Research Request 
+        url: /cx-center-of-excellence/submitting-your-research-request/
+      - name: Accounting for Project Direction Changes
+        url: /cx-center-of-excellence/accounting-for-project-direction-changes/
+  - name: Special Topics
+    children:
+      - name: Equitable Research
+        url: /cx-center-of-excellence/cx-and-equitable-research/
+      - name: Excluded Populations (Disabilities)
+        url: /cx-center-of-excellence/cx-and-excluded-populations/
+      - name: Trauma-Informed Practices
+        url: /cx-center-of-excellence/trauma-informed-practices/
+      - name: Pending Research  
+        url: /cx-center-of-excellence/pending-research/
+  - name: Tools & Resources
+    children:
+      - name: Research Repository
+        url: /cx-center-of-excellence/research-repository/
+      - name: Touchpoints
+        url: /cx-center-of-excellence/touchpoints/
+      - name: People
+        url: /cx-center-of-excellence/people/
+      - name: Communities
+        url: /cx-center-of-excellence/communities/
+      - name: Organizations
+        url: /cx-center-of-excellence/organizations/
+  - name: Wrapping Up
+    children:
+      - name: Sharing and Archiving
+        url: /cx-center-of-excellence/sharing-and-archiving/
+      - name: Govenrnment Wide
+        url: /cx-center-of-excellence/government-wide/
 
-product:
-  - name: About this guide
-    url: /product/
-  - name: Discover the current state
-    url: /product/discover/
-  - name: Define the future state
-    url: /product/define/
-  - name: Deliver incremental value
-    url: /product/deliver/
-  - name: Enable partners
-    url: /product/partners/
+product-vision-cx-research:
+  - name: Product Vision CX Research
+    url: /product-vision-cx-research/
+  - name: Getting Started
+    children:
+      - name: Before Getting Started
+        url: /product-vision-cx-research/before-getting-started/
+      - name: Planning Your Research
+        url: /product-vision-cx-research/planning-your-research/
+      - name: PRA Consideration Quiz
+        url: /product-vision-cx-research/pra-consideration-quiz/
+      - name: Customer Experience Center of Excellence
+        url: /product-vision-cx-research/customer-experience-center-of-excellence/
+  - name: Understanding PRA
+    children:
+      - name: Understanding the PRA
+        url: /product-vision-cx-research/understanding-the-pra/
+      - name: The Paperwork Reduction Act
+        url: /product-vision-cx-research/paperwork-reduction-act/
+      - name: Navigate the PRA
+        url: /product-vision-cx-research/navigate-the-pra/
+      - name: How PRA Works
+        url: /product-vision-cx-research/how-pra-works/
+      - name: When PRA Applies
+        url: /product-vision-cx-research/when-pra-applies/
+      - name: Information Collection Types
+        url: /product-vision-cx-research/information-collection-types/
+      - name: Clearance Types
+        url: /product-vision-cx-research/clearance-types/
+  - name: Choosing Your Path
+    children:
+      - name: Choose the Right Process
+        url: /product-vision-cx-research/choose-the-right-process/
+      - name: Navigate the PRA
+        url: /product-vision-cx-research/navigate-the-paperwork-reduction-act/
+      - name: PRA Compliance Without Clearance
+        url: /product-vision-cx-research/pra-compliance-without-clearance/
+      - name: Fast Track Approval Process
+        url: /product-vision-cx-research/fast-track-approval-process/
+      - name: Normal Clearance Approval Process
+        url: /product-vision-cx-research/normal-clearance-approval-process/
+      - name: Submitting Your Research Request
+        url: /product-vision-cx-research/submitting-your-research-request/
+      - name: Accounting for Project Direction Changes
+        url: /product-vision-cx-research/accounting-for-project-direction-changes/
+  - name: Conducting Research
+    children:
+      - name: Learn How to Talk to Customers
+        url: /product-vision-cx-research/learn-how-to-talk-to-customers/
+      - name: Conduct Research
+        url: /product-vision-cx-research/conduct-research/
+      - name: Conducting Your Research
+        url: /product-vision-cx-research/conducting-your-research/
+      - name: Stages of the Design Process
+        url: /product-vision-cx-research/stages-of-the-design-process/
+      - name: Participant Recruitment
+        url: /product-vision-cx-research/participant-recruitment/
+      - name: Participant Outreach
+        url: /product-vision-cx-research/participant-outreach/      
+      - name: Participant Compensation
+        url: /product-vision-cx-research/participant-compensation/
+      - name: Privacy Considerations
+        url: /product-vision-cx-research/privacy/
+      - name: Legal Considerations
+        url: /product-vision-cx-research/legal/
+      - name: Trauma-Informed Practices
+        url: /product-vision-cx-research/trauma-informed-practices/
+      - name: What are you getting feedback on?
+        url: /product-vision-cx-research/what-are-you-getting-feedback-on/
+      - name: What type of feedback are you hoping to receive?
+        url: /product-vision-cx-research/what-type-of-feedback-are-you-hoping-to-receive/
+      - name: Who is collecting the information?
+        url: /product-vision-cx-research/who-is-collecting-the-information/
+      - name: Who are you getting feedback from?
+        url: /product-vision-cx-research/who-are-you-getting-feedback-from/
+      - name: Why is collecting the information?
+        url: /product-vision-cx-research/why-are-you-collecting-information/
+      - name: CX Methods
+        url: /product-vision-cx-research/cx-methods/
+  - name: Wrapping Up
+    children:
+      - name: Wrapping Up Your Research
+        url: /product-vision-cx-research/wrapping-up-your-research/
+      - name: Sharing Research
+        url: /product-vision-cx-research/sharing-research/
+      - name: Archiving Research
+        url: /product-vision-cx-research/archiving-research/
+      - name: Research Repository
+        url: /product-vision-cx-research/research-repository/
+  - name: Resources
+    children:
+      - name: People & Organizations
+        url: /product-vision-cx-research/people/
+      - name: Connect with People
+        url: /product-vision-cx-research/connect-with-people/
+      - name: References
+        url: /product-vision-cx-research/references/
+      - name: Case Studies
+        url: /product-vision-cx-research/case-studies/
+      - name: 21st Century IDEAS Act
+        url: /product-vision-cx-research/21st-century-ideas-act/
+      - name: Questions That Might Live In Content
+        url: /product-vision-cx-research/questions-that-might-live-in-content/
 
-ux-guide:
+pra-testing-space:
+  - name: PRA Testing Space
+    url: /pra-testing-space/
   - name: Overview
-    url: /ux-guide/
-  - name: Our approach
-    url: /ux-guide/our-approach/
-  - name: Research
-    url: /ux-guide/research/
-  - name: Design
-    url: /ux-guide/design/
+    children:
+      - name: Accounting for Project Direction Changes
+        url: /pra-testing-space/accounting-for-project-direction-changes/
+      - name: Clearance Types
+        url: /pra-testing-space/clearance-types/
+      - name: Conducting Your Research
+        url: /pra-testing-space/conducting-your-research/
+      - name: Considerations
+        url: /pra-testing-space/considerations/
+      - name: Definitions
+        url: /pra-testing-space/definitions/
+      - name: Generic - Fast Track Approval Process
+        url: /pra-testing-space/generic-fast-track-approval-process/
+      - name: Normal - Clearance Approval Process
+        url: /pra-testing-space/normal-clearance-approval-process/
+      - name: How It Works
+        url: /pra-testing-space/how-it-works/
+      - name: Process For Getting Clearance
+        url: /pra-testing-space/process-for-getting-clearance/
+      - name: Questions That Might Live In Content
+        url: /pra-testing-space/questions-that-might-live-in-content/
+      - name: Research Planning Assessment
+        url: /pra-testing-space/research-planning-assessment/
+      - name: Stages of the Design Process
+        url: /pra-testing-space/stages-of-the-design-process/
+      - name: Submitting Your Research Request
+        url: /pra-testing-space/submitting-your-research-request/
+      - name: Thank you for providing feedback
+        url: /pra-testing-space/thank-you-for-providing-feedback/
+      - name: Types of Information Collection Requests
+        url: /pra-testing-space/types-of-information-collection-requests/
+      - name: Understanding the PRA
+        url: /pra-testing-space/understand-the-paperwork-reduction-act/
+      - name: What are you getting feedback on?
+        url: /pra-testing-space/what-are-you-getting-feedback-on/
+      - name: What type of feedback are you hoping to receive?
+        url: /pra-testing-space/what-type-of-feedback-are-you-hoping-to-receive/
+      - name: When PRA Applies
+        url: /pra-testing-space/when-pra-applies/
+      - name: Who are you getting feedback from?
+        url: /pra-testing-space/who-are-you-getting-feedback-from/
+      - name: Who is collecting the information?
+        url: /pra-testing-space/who-is-collecting-the-information/
+      - name: Why are you collecting information?
+        url: /pra-testing-space/why-are-you-collecting-information/
+      - name: Wrapping Up Your Research
+        url: /pra-testing-space/wrapping-up-your-research/
+  - name: Resources
+    children:
+      - name: References
+        url: /pra-testing-space/references/
+      - name: People Included
+        url: /pra-testing-space/people-included/
 
 secondary_navigation:
-  - name: Previous version
-    url: /derisking/
-    guides: [derisking-government-tech]
-  - name: More 18F guides
+  - name: All PRA Guides
     url: /
 
-methods:
-  - name: Discover
-    url: /discover/
-    children:
-      - name: Cognitive walkthrough
-        url: /methods/discover/cognitive-walkthrough/
-      - name: Contextual inquiry
-        url: /methods/discover/contextual-inquiry/
-      - name: Design studio
-        url: /methods/discover/design-studio/
-      - name: Dot voting
-        url: /methods/discover/dot-voting/
-      - name: Five whys
-        url: /methods/discover/five-whys/
-      - name: Heuristic evaluation
-        url: /methods/discover/heuristic-evaluation/
-      - name: Hopes and fears
-        url: /methods/discover/hopes-and-fears/
-      - name: KJ method
-        url: /methods/discover/kj-method/
-      - name: Lean coffee
-        url: /methods/discover/lean-coffee/
-      - name: Stakeholder and user interviews
-        url: /methods/discover/stakeholder-and-user-interviews/
-      - name: Stakeholder influence mapping
-        url: /methods/discover/stakeholder-influence-mapping/
-      - name: See all Discover cards
-        url: /methods/discover/
-  - name: Decide
-    url: /methods/decide/
-    children:
-      - name: Archetypes
-        url: /methods/decide/archetypes/
-      - name: Affinity mapping
-        url: /methods/decide/affinity-mapping/
-      - name: Coding qualitative data
-        url: /methods/decide/qualitative-data-analysis/
-      - name: Comparative analysis
-        url: /methods/decide/comparative-analysis/
-      - name: Content audit
-        url: /methods/decide/content-audit/
-      - name: Design hypothesis
-        url: /methods/decide/design-hypothesis/
-      - name: Design principles
-        url: /methods/decide/design-principles/
-      - name: Interface audit
-        url: /methods/decide/interface-audit/
-      - name: Journey mapping
-        url: /methods/decide/journey-mapping/
-      - name: Mental modeling
-        url: /methods/decide/mental-modeling/
-      - name: Service blueprint
-        url: /methods/decide/service-blueprint/
-      - name: Site mapping
-        url: /methods/decide/site-mapping/
-      - name: Storyboarding
-        url: /methods/decide/storyboarding/
-      - name: Style tiles
-        url: /methods/decide/style-tiles/
-      - name: Task flow analysis
-        url: /methods/decide/task-flow-analysis/
-      - name: User scenarios
-        url: /methods/decide/user-scenarios/
-      - name: User stories
-        url: /methods/decide/user-stories/
-      - name: See all Decide cards
-        url: /methods/decide/
-  - name: Make
-    url: /methods/make/
-    children:
-      - name: Design pattern library
-        url: /methods/make/design-pattern-library/
-      - name: Prototyping
-        url: /methods/make/prototyping/
-      - name: Wireframing
-        url: /methods/make/wireframing/
-      - name: See all Make cards
-        url: /methods/make/
-  - name: Validate
-    url: /methods/validate/
-    children:
-      - name: Card sorting
-        url: /methods/validate/card-sorting/
-      - name: Multivariate testing
-        url: /methods/validate/multivariate-testing/
-      - name: Success metrics
-        url: /methods/validate/metrics/
-      - name: Usability testing
-        url: /methods/validate/usability-testing/
-      - name: Visual preference testing
-        url: /methods/validate/visual-preference-testing/
-      - name: See all Validate cards
-        url: /methods/validate/
-  - name: Fundamentals
-    url: /methods/fundamentals/
-    children:
-      - name: Compensation
-        url: /methods/fundamentals/compensation/
-      - name: Privacy
-        url: /methods/fundamentals/privacy/
-      - name: Recruiting
-        url: /methods/fundamentals/recruiting/
-      - name: See all Fundamentals cards
-        url: /methods/fundamentals/
-  - name: About
-    url: /methods/about/
-  - name: Print the Methods
-    url: /methods/print/
+  # - name: About
+  #   url: /methods/about/

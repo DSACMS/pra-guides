@@ -71,9 +71,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details on the release process.
 
 Total number of contributors: <!--CONTRIBUTOR COUNT START--> <!--CONTRIBUTOR COUNT END-->
 
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
-
 <!--
 ### Alumni
 

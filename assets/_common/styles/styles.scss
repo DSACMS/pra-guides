@@ -1,20 +1,23 @@
 /*---------------------------------------------------------
 USWDS Settings
 ----------------------------------------------------------*/
-@forward "uswds-theme-settings";
+@use "uswds-theme-settings";
 
 /*---------------------------------------------------------
 USWDS Source
 ----------------------------------------------------------*/
-@forward "uswds";
+@use "uswds";
 
 /*---------------------------------------------------------
 Custom styling
 ----------------------------------------------------------*/
-@forward "custom-styles.scss";
-@forward "../../derisking/styles/derisking-styles.scss";
-@forward "../../derisking-government-tech/styles/derisking-government-tech-styles.scss";
+@use "custom-styles.scss";
+@use "category";
+@use "colors";
+@use "homepage";
+// @forward "../../derisking/styles/derisking-styles.scss";
+// @forward "../../derisking-government-tech/styles/derisking-government-tech-styles.scss";
 
-@forward "overrides/code_highlight.scss";
-@forward "overrides/extended-header.scss";
-@forward "../../brand/styles/brand-styles";
+@use "overrides/code_highlight.scss";
+@use "overrides/extended-header.scss";
+// @forward "../../brand/styles/brand-styles";
